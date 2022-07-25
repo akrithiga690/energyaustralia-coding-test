@@ -1,0 +1,12 @@
+[Record Label MusicFestivalListA
+, Band ListA
+, ChristmasBand
+, DiwaliBand
+, RamzanBand
+]
+[Record Label MusicFestivalListB
+, Band ListB
+, GoodFridayBand
+, GaneshChaturthiBand
+, EidBand
+]
